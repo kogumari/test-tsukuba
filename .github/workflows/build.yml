@@ -28,7 +28,7 @@ jobs:
         with:
           INPUT_DIR: './data'
           NAME: 'SmartCity テンプレート'
-          MUNICIPALITY_CODE: '37201'
+          MUNICIPALITY_CODE: '082201'
 
       - name: Smartmap
         run: |
